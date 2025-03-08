@@ -5,8 +5,8 @@
 		"uniqueTo": "Indonesian Republic",
 		"replaces": "Jet Fighter"
 		"movement": 1,
-		"strength": 80,
-		"rangedStrength": 80,
+		"strength": 85,
+		"rangedStrength": 85,
 		"range": 10,
 		"interceptRange": 10,
 		"cost": 450,
