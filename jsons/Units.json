@@ -3,7 +3,7 @@
 		"name": "Garuda 45",
 		"unitType": "Fighter",
 		"uniqueTo": "Indonesian Republic",
-		"replace": "Jet Fighter"
+		"replaces": "Jet Fighter"
 		"movement": 1,
 		"strength": 80,
 		"rangedStrength": 80,
@@ -18,7 +18,7 @@
 		"name": "KRI Arsia",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Indonesian Republic",
-		"replace": "Battleship",
+		"replaces": "Battleship",
 		"movement": 5,
 		"strength": 65,
 		"rangedStrength": 65,
