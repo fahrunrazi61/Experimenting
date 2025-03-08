@@ -18,7 +18,7 @@
 		"name": "KRI Arsia",
 		"unitType": "Ranged Water",
 		"unique to": "Indonesian Republic",
-		"replace"; "Battleship",
+		"replace": "Battleship",
 		"movement": 5,
 		"strength": 65,
 		"rangedStrength": 65,
