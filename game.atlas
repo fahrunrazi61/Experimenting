@@ -4,7 +4,6 @@ size: 366, 102
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/Merdeka 45
   rotate: false
   xy: 760, 278
