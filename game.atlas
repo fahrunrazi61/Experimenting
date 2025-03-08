@@ -4,14 +4,14 @@ size: 366, 102
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Merdeka 45
+UnitIcons/Merdeka 45
   rotate: false
   xy: 760, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/KRI Arsia
+UnitsIcons/KRI Arsia
   rotate: false
   xy: 760, 170
   size: 100, 100
