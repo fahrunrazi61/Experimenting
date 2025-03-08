@@ -1,17 +1,33 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Garuda 45",
+		"unitType": "Fighter",
+		"unique to": "Indonesian Republic",
+		"replace": "Jet Fighter"
+		"movement": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 450,
+		"requiredTech": "Lasers",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "KRI Arsia",
+		"unitType": "Ranged Water",
+		"unique to": "Indonesian Republic",
+		"replace"; "Battleship",
+		"movement": 5,
+		"strength": 65,
+		"rangedStrength": 65,
+		"range": 3,
+		"cost": 400,
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
 	}
+		
 ]
