@@ -4,10 +4,11 @@
 		"replaces": "Monument",
 		"uniqueTo": "Indonesian Republic",
 		"culture": 2,
-                "Production": 2,
-		"cost" : 50,
+                "production": 2,
+		"cost" : 60,
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["[+1 Production] from [Coast] tiles [in this city]"]
+		"uniques": ["[+1 Production] from [Coast] tiles [in this city]",
+		            "Destroyed when the city is captured"]
 	}
 ]
