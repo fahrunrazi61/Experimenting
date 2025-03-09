@@ -10,7 +10,7 @@
 		"range": 10,
 		"interceptRange": 10,
 		"cost": 450,
-		"requiredTech": "Lasers",
+		"requiredTech": "Rocketry",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "jetgun"
 	},
@@ -24,7 +24,7 @@
 		"rangedStrength": 65,
 		"range": 3,
 		"cost": 400,
-		"requiredTech": "Electronics",
+		"requiredTech": "Steam Power",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
