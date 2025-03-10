@@ -6,8 +6,8 @@
 		"culture": 2,
                 "production": 2,
 		"cost" : 40,
-		"happiness": 3,
-		"maintenance": 1,
+		"happiness": 2,
+		"maintenance": 3,
 		"uniques": ["[+1 Production] from [Coast] tiles [in this city]",
 		            "Destroyed when the city is captured"]
 	}
