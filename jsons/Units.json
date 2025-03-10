@@ -48,8 +48,7 @@
 	{
 		"name": "Triplane2",
 		"unitType": "Fighter",
-		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed in Civilopedia"],
+		"uniqueTo": "Indonesian Republic"
 		"replaces": "Triplane",
 		"movement": 1,
 		"strength": 35,
@@ -60,7 +59,7 @@
 		"requiredTech": "Flight",
 		"upgradesTo": "Fighter",
 		"obsoleteTech": "Radar",
-		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["Will not be displayed in Civilopedia","[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -98,7 +97,6 @@
 		"name": "Stealth Bomber2",
 		"unitType": "Bomber",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Stealth Bomber",
 		"movement": 2,
 		"strength": 85,
@@ -106,15 +104,14 @@
 		"range": 20,
 		"cost": 425,
 		"requiredTech": "Stealth",
-		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["Will not be displayed in Civilopedia","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 	{
 		"name": "Fighter2",
 		"unitType": "Fighter"
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed in Civilopedia"],
-		"replaces": "Fighter",
+	        "replaces": "Fighter",
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 45,
@@ -123,7 +120,7 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"upgradesTo": "Jet Fighter",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["Will not be displayed in Civilopedia","[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
 	}
 		
