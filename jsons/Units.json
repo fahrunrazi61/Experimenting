@@ -33,7 +33,7 @@
 	        "name": "Frigate2",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Frigate",
 		"movement": 5,
 		"strength": 25,
