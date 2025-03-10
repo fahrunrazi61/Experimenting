@@ -68,7 +68,7 @@
 		"unitType": "Bomber",
 		"uniqueTo": "Indonesian Republic",
 		"uniques": ["Will not be displayed on Civilopedia"],
-		"replaces": "Great Ear Bomber"
+		"replaces": "Great War Bomber"
 		"movement": 1,
 		"strength": 50,
 		"rangedStrength": 50,
@@ -125,6 +125,6 @@
 		"upgradesTo": "Jet Fighter",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
-	},
+	}
 		
 ]
