@@ -49,7 +49,7 @@
 		"name": "Triplane2",
 		"unitType": "Fighter",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Triplane"
 		"movement": 1,
 		"strength": 35,
@@ -67,7 +67,7 @@
 		"name": "Great War Bomber2",
 		"unitType": "Bomber",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Great War Bomber"
 		"movement": 1,
 		"strength": 50,
@@ -83,7 +83,7 @@
 		"name": "Bomber2",
 		"unitType": "Bomber",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Bomber"
 		"movement": 1,
 		"strength": 65,
@@ -98,7 +98,7 @@
 		"name": "Stealth Bomber2",
 		"unitType": "Bomber",
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Stealth Bomber"
 		"movement": 2,
 		"strength": 85,
@@ -113,7 +113,7 @@
 		"name": "Fighter2",
 		"unitType": "Fighter"
 		"uniqueTo": "Indonesian Republic",
-		"uniques": ["Will not be displayed on Civilopedia"],
+		"uniques": ["Will not be displayed in Civilopedia"],
 		"replaces": "Fighter",
 		"movement": 1,
 		"strength": 45,
