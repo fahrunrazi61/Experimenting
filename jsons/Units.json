@@ -19,7 +19,7 @@
 		"uniqueTo": "Indonesian Republic",
 		"replaces": "Battleship",
 		"upgradesTo": "Missile Cruiser",
-		"movement": 5,
+		"movement": 7,
 		"strength": 35,
 		"rangedStrength": 60,
 		"range": 3,
