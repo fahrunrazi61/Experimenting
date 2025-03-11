@@ -2,7 +2,6 @@
 	{
 		"name": "Garuda 45",
 		"unitType": "Fighter",
-		"uniqueTo": "Indonesian Republic",
 		"replaces": "Jet Fighter"
 		"movement": 1,
 		"strength": 90,
@@ -26,6 +25,7 @@
 		"range": 3,
 		"cost": 400,
 		"requiredTech": "Steam Power",
+		"obsoleteTech": "Robotics",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
