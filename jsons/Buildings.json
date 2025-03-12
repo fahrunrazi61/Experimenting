@@ -15,12 +15,14 @@
 		"name": "Pabrik",
 		"replaces": "Factory",
 		"uniqueTo": "Indonesian Republic",
-		"cost": 300,
+		"cost": 360,
 		"production": 6,
-		"percentStatBonus": {"production": 20},
+		"happiness ": 3,
+		"uniqueText": "[Oil] not required",
+		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
-		"maintenance": 4,
+		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
 	}
