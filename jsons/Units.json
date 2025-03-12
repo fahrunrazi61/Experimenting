@@ -2,7 +2,8 @@
 	{
 		"name": "Garuda 45",
 		"unitType": "Fighter",
-		"replaces": "Jet Fighter"
+		"replaces": "Jet Fighter",
+		"uniqueTo": "Unknown",
 		"movement": 1,
 		"strength": 90,
 		"rangedStrength": 90,
