@@ -17,7 +17,7 @@
 		"uniqueTo": "Indonesian Republic",
 		"cost": 360,
 		"production": 6,
-		"happiness ": 3,
+		"happiness": 3,
 		"uniqueText": "[Oil] not required",
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
