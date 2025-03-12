@@ -2,6 +2,7 @@
 	{
 		"name": "Tugu",
 		"replaces": "Monument",
+		"uniqueTo": "Unknown",
 		"culture": 2,
                 "production": 2,
 		"cost" : 40,
