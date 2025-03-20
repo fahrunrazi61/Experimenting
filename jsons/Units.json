@@ -21,14 +21,13 @@
 		"replaces": "Battleship",
 		"upgradesTo": "Missile Cruiser",
 		"movement": 5,
-		"strength": 20,
-		"rangedStrength": 70,
+		"strength": 25,
+		"rangedStrength": 55,
 		"range": 3,
-		"cost": 200,
-		"requiredTech": "Steam Power",
-		"obsoleteTech": "Robotics",
+		"cost": 375,
+		"requiredTech": "Electronics",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Indirect Fire"],
+		"promotions": ["Indirect Fire","Logistics"],
 		"attackSound": "shipguns"
 	}	
 ]
