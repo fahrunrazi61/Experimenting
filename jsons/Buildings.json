@@ -16,7 +16,7 @@
 		"replaces": "Factory",
 		"uniqueTo": "Indonesian Republic",
 		"cost": 360,
-		"production": 4,
+		"production": 6,
 		"happiness": 3,
 		"uniqueText": "[Coal] not required",
 		"percentStatBonus": {"production": 10},
