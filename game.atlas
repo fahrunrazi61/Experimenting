@@ -1,5 +1,5 @@
 
-game.png
+game1.png
 size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -37,5 +37,26 @@ NationIcons/Indonesian Republic
   xy: 220, 170
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Kampung
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kampung
+  rotate: false
+  xy: 4, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kampung
+  rotate: false
+  xy: 1448, 394
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
