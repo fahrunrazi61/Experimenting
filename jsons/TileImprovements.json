@@ -2,7 +2,7 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
-	        "production": 1,
+	        "production": 2,
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
 		"uniques": ["[+1 Food, +1 Gold] <after discovering [Compass]>","[+1 Production, +1 Food] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Sailing",
