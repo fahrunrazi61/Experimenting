@@ -4,8 +4,8 @@
 		"uniqueTo": "Indonesian Republic",
 		"food": 1,
 	        "production": 1,
-		"terrainsCanBeBuiltOn": ["Coast"],
-		"uniques": ["[+1 Food,+1 Production] <after discovering [Compass]>","[+1 Production, +1 Gold] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+30 Gold]"],
+		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
+		"uniques": ["[+1 Food, +1 Production] <after discovering [Compass]>","[+1 Production, +1 Gold] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Sailing",
 		"shortcutKey": "F"
 	}
