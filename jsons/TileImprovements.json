@@ -2,7 +2,7 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
-		"replaces" : "Fishing Boats",
+		"turnsToBuild": 7,
 		"food": 1,
 	        "production": 2,
 		"terrainsCanBeBuiltOn": ["Coast","Lakes"],
