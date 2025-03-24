@@ -32,6 +32,13 @@ UnitIcons/KRI Arsia
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Jenggolan
+  rotate: false
+  xy: 328, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Indonesian Republic
   rotate: false
   xy: 220, 170
