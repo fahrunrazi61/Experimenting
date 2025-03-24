@@ -2,12 +2,10 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
-		"turnsToBuild": 7,
-		"replaces": "Fishing Boats",
 		"food": 1,
 	        "production": 2,
 		"terrainsCanBeBuiltOn": ["Coast","Lakes","Atoll"],
-		"uniques": ["[+1 Gold] <after discovering [Compass]>","[+1 Production, +1 Food] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["[+1 Food] <after discovering [Optics]>","[+1 Production] <after discovering [Compass]>","[+1 Production, +1 Food] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Sailing",
 		"shortcutKey": "F"
 	}
