@@ -14,7 +14,7 @@
 	{
 		"name": "Pabrik",
 		"replaces": "Factory",
-		"uniqueTo": "Indonesian Republic",
+		"uniqueTo": "Unknown",
 		"cost": 360,
 		"production": 6,
 		"happiness": 3,
