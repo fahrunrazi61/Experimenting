@@ -2,6 +2,8 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
+		"turnsToBuild": 10,
+		"food": 1,
 	        "production": 1,
 		"terrainsCanBeBuiltOn": ["Water","Land"],
 		"uniques": ["[+1 Production] <after discovering [Compass]>","[+1 Production, +1 Food] <after discovering [Navigation]>","Pillaging this improvement yields approximately [+20 Gold]"],
