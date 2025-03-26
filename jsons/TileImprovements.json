@@ -11,11 +11,11 @@
 			"[+1 Production] <after discovering [Compass]>",
 			"[+1 Production, +1 Food] <after discovering [Navigation]>",
 			"Pillaging this improvement yields approximately [+10 Gold]",
-		        "Improves [Fish] resource in this tile] <hidden from users>",
-		        "Improves [Crab] resource in this tile] <hidden from users>",
-		        "Improves [Oil] resource in this tile] <hidden from users>",
-		        "Improves [Pearl] resource in this tile] <hidden from users>",
-			"Improves [Whale] resource in this tile] <hidden from users>"],
+		        "Improves [Fish] resource in this tile <hidden from users>",
+		        "Improves [Crab] resource in this tile <hidden from users>",
+		        "Improves [Oil] resource in this tile <hidden from users>",
+		        "Improves [Pearl] resource in this tile <hidden from users>",
+			"Improves [Whale] resource in this tile <hidden from users>"],
 		"techRequired": "Sailing",
 		"shortcutKey": "F"
 	}
