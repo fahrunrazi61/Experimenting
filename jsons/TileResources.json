@@ -71,7 +71,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
-		"improvement": "Fishing Boats","Kampung",
+		"improvement": ["Fishing Boats","Kampung"],
 		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>"]
 	},
 	/*
