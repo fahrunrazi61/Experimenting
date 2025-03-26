@@ -24,7 +24,6 @@
 		"requiredTech": "Sailing",
 		"uniques": [
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
-			"can instantly construct a [Fish] improvement <for [4] movement> <[3] times> <after which this unit is consumed>",
 			"Can instantly construct a [Fishing Boats] improvement <for [4] movement> <[3] times> <after which this unit is consumed> <hidden from users>",
 			"Can instantly construct a [Kampung] improvement <for [4] movement> <[3] times> <after which this unit is consumed> <hidden from users>",
 			"Can instantly construct a [Offshore Platform] improvement <for [4] movement> <[3] times> <after which this unit is consumed> <hidden from users>",
