@@ -2,9 +2,8 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
-		"replaces": "Fishing Boats",
 		"food": 1,
-	        "production": 1,
+	        "production": 2,
 		"terrainsCanBeBuiltOn": ["Water","Coast"],
 		"uniques": [
 			"[+1 Gold] <after discovering [Compass]>",
