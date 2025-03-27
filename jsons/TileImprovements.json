@@ -6,7 +6,7 @@
 	        "production": 2,
 		"terrainsCanBeBuiltOn": ["Water","Coast"],
 		"uniques": [
-			"[+1 Gold] <after discovering [Compass]>",
+			"[+1 Food] <after discovering [Compass]>",
 			"[+1 Production, +1 Food] <after discovering [Navigation]>",
 			"Pillaging this improvement yields approximately [+10 Gold]",
 		        "Improves [All] resource in this tile"],
