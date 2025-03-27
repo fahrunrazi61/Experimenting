@@ -4,7 +4,7 @@
 		"uniqueTo": "Indonesian Republic",
 		"replaces": "Fishing Boats",
 		"food": 1,
-	        "production": 2,
+	        "production": 1,
 		"terrainsCanBeBuiltOn": ["Water","Coast"],
 		"uniques": [
 			"[+1 Production] <after discovering [Optics]>",
