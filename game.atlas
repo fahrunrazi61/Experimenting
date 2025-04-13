@@ -60,7 +60,7 @@ ImprovementIcons/Kampung
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Kampung
+TileSets/FantasyHex/Tiles/Kampung2
   rotate: false
   xy: 1448, 394
   size: 32, 32
