@@ -18,7 +18,7 @@
 		"name": "Janggolan",
 		"unitType": "Civilian Water",
 		"replaces": "Work Boats",
-		"uniqueTo": "Indonesian Republic",
+		"uniqueTo": "Unknown",
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Sailing",
