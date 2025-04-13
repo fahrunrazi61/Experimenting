@@ -12,7 +12,7 @@
 			"[+1 Production] <after discovering [Steam Engine]>",
 			"[+1 Happiness] <after discovering [Electronics]>",
 			"Pillaging this improvement yields approximately [+18 Gold]",
-			"improves [All] resource in this tiles"],
+			"Improves [All] resource in this tile"],
 		"techRequired": "Agriculture",
 		"shortcutKey": "F"
 	}
