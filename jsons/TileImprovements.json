@@ -2,15 +2,17 @@
 	{
 		"name": "Kampung",
 		"uniqueTo": "Indonesian Republic",
-		"food": 1,
+		"replaces": "Farm",
+		"turnsToBuild": 7,
 	        "production": 2,
-		"terrainsCanBeBuiltOn": ["Water","Coast"],
-		"uniques": [
-			"[+1 Culture] <after discovering [Compass]>",
-			"[+1 Production, +1 Food] <after discovering [Navigation]>",
-			"Pillaging this improvement yields approximately [+10 Gold]",
-		        "Improves [All] resource in this tile"],
-		"techRequired": "Sailing",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+			"[+1 Production] <after discovering [Steam Engine]>",
+			"[+1 Happiness] <after discovering [Electronics]>",
+			"Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Agriculture",
 		"shortcutKey": "F"
 	}
 ]
