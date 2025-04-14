@@ -2,7 +2,7 @@
 	{
 		"name": "Indonesian Republic",
 	        "leaderName":"Juliono",
-	        "startBias":["Coast"],
+	        "startBias":["Grassland"],
 	        "adjective": ["Indonesian"],
 	        "preferredVictoryType": "Domination",
 	        "favoredReligion": "Islam",
