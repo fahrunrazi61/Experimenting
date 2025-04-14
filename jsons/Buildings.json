@@ -17,7 +17,7 @@
 		"happiness": 3,
 		"percentStatBonus": {"production": 15},
 		"requiredBuilding": "Factory",
-		"uniques": "Only available <in cities without a [Nuclear Plant]>",
+		"uniques": ["Only available <in cities without a [Nuclear Plant]>"],
 		"maintenance": 3,
 		"requiredTech": "Ecology"
 	}
