@@ -12,7 +12,7 @@
 	{
 		"name": "Pabrik",
 		"replaces": "Solar Plant",
-		"uniqueTo": "Indonsian Republic",
+		"uniqueTo": "Indonesian Republic",
 		"production": 5,
 		"happiness": 3,
 		"percentStatBonus": {"production": 15},
