@@ -14,7 +14,7 @@
 		"replaces": "Solar Plant",
 		"uniqueTo": "Indonesian Republic",
 		"production": 5,
-		"happiness": 3,
+		"happiness": 5,
 		"percentStatBonus": {"production": 15},
 		"requiredBuilding": "Factory",
 		"uniques": ["Only available <in cities without a [Nuclear Plant]>"],
