@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Kampung",
-		"uniqueTo": "Indonesian Republic",
+		"uniqueTo": "Unknown",
 		"replaces": "Trading post",
 		"turnsToBuild": 7,
 	        "production": 2,
