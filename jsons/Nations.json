@@ -20,7 +20,7 @@
 	        "innerColor": [167,52,31],
 		"outerColor": [101,211,220],
 		"uniqueName": "Demon from the Southeast"
-		"uniques": ["[+2 Production] from every [Kampung]","[1] Range<for [Ranged] units>"],
+		"uniques": ["[+2 Production] from every [Trading post]","[1] Range<for [Ranged] units>"],
 		"cities": ["Jakarta","Surabaya","Yogyakarta","Medan","Bandung","Semarang","Palembang","Makassar","Pekanbaru","Bandar Lampung","Batam","Padang","Malang","Denpasar","Samarinda","Banjarmasin","Serang","Balikpapan","Pontianak","Jambi","Surakarta","Mataram","Manado","Kupang","Palu","Bengkulu","Ambon","Cirebon","Kendari","Jayapura","Banda Aceh","Palangkaraya","Tanjung Pinang","Pangkal Pinang","Gorontalo","Ternate","Metro"],
 		"spyNames": [ "Adityawarman","Airlangga","Citra","Halayudha","Jayakatwang","Lingga","Mahendradatta","Prapana","Raden","Devi"]
 	}
