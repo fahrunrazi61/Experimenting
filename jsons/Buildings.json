@@ -11,17 +11,14 @@
 	},
 	{
 		"name": "Pabrik",
-		"replaces": "Factory",
-		"uniqueTo": "Unknown",
-		"cost": 360,
-		"production": 6,
+		"replaces": "Solar Plant",
+		"uniqueTo": "Indonsian Republic",
+		"production": 5,
 		"happiness": 3,
-		"uniqueText": "[Coal] not required",
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 2},
-		"requiredBuilding": "Workshop",
+		"percentStatBonus": {"production": 15},
+		"requiredBuilding": "Factory",
+		"uniques": "Only available <in cities without a [Nuclear Plant]>"],
 		"maintenance": 3,
-		"hurryCostModifier": 0,
-		"requiredTech": "Industrialization"
+		"requiredTech": "Ecology"
 	}
 ]
