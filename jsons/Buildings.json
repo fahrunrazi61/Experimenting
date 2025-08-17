@@ -6,7 +6,7 @@
 		"maintenance": 0,
 		"happiness": 3,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities"],
+		"uniques": ["Remove extra unhappiness from annexed cities","All newly-trained [non-[Air]] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Mathematics"
 	},
 	{
