@@ -25,7 +25,7 @@ UnitIcons/Garuda 45
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/KRI Arsia
+BuildingIcons/Candi
   rotate: false
   xy: 760, 278
   size: 100, 100
