@@ -3,22 +3,22 @@
 		"name": "Tugu",
 		"replaces": "Courthouse",
 		"uniqueTo": "Indonesian Republic",
-		"maintenance": 0,
-		"happiness": 3,
+		"maintenance": 1,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities","All newly-trained [non-[Air]] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Mathematics"
 	},
 	{
-		"name": "Pabrik",
-		"replaces": "Solar Plant",
-		"uniqueTo": "Indonesian Republic",
-		"production": 5,
-		"happiness": 5,
-		"percentStatBonus": {"production": 15},
-		"requiredBuilding": "Factory",
-		"uniques": ["Only available <in cities without a [Nuclear Plant]>"],
-		"maintenance": 3,
-		"requiredTech": "Ecology"
-	}
+        "name": "Candi",
+        "replaces": "Garden",
+        "uniqueTo": "Indonesian Republic",
+        "cost": 120,
+        "culture": 3, // TODO: +2 Faith, +2 additional Faith for each Religion that has at least 1 follower in the city.
+        "uniques": [
+			"[+25]% Great Person generation [in this city]"
+		],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Theology"
+    }
 ]
