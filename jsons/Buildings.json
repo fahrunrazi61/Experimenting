@@ -3,7 +3,8 @@
 		"name": "Tugu",
 		"replaces": "Courthouse",
 		"uniqueTo": "Indonesian Republic",
-		"maintenance": 1,
+		"maintenance": 4,
+		"happiness": 1,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities","All newly-trained [non-[Air]] units [in this city] receive the [Logistics] promotion"],
 		"requiredTech": "Mathematics"
@@ -13,7 +14,7 @@
         "replaces": "Garden",
         "uniqueTo": "Indonesian Republic",
         "cost": 120,
-        "culture": 3, // TODO: +2 Faith, +2 additional Faith for each Religion that has at least 1 follower in the city.
+        "happiness": 2, // TODO: +2 Faith, +2 additional Faith for each Religion that has at least 1 follower in the city.
         "uniques": [
 			"[+25]% Great Person generation [in this city]"
 		],
